@@ -5,11 +5,13 @@
 Pkg install root-repo
 
 #instal
+
 pkg install python -y
 pkg install python3
 pkg install git -y
 
 #Run
+
 git clone https://github.com/radhin123/crack
 pip install requests
 pip install pyfiglet
