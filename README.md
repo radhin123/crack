@@ -1,6 +1,7 @@
 # crack
 
 #root dulu termux nya
+
 Pkg install root-repo
 
 #instal
