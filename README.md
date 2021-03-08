@@ -1,1 +1,2 @@
-# crack Sorry the script is currently having an error, the script cannot be used 🙏.
+# crack Maaf skrip saat ini mengalami kesalahan, skrip tidak dapa
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
